@@ -67,34 +67,30 @@ Hai sconfitto il nostro boss, giusto?\xfffeHey, niente male!\xf000븁\x0000\xfff
 Preferisco fare una battaglia eccitante che\xfffeguidare lentamente il treno.
 Da dove sei venuto?\xfffeE dove stai andando?
 Noi agenti della stazione siamo i protettori della\xfffepace e dell'ordine nella stazione.\xf000븁\x0000\xfffeNoi siamo mooolto contrari allo sporcare sulla\xfffepiattaforma, al gridare o al suonare\xf000븀\x0000\xfffestrumenti, al vagabondaggio, o a qualsiasi attività\xf000븀\x0000\xfffeche dia fastidio alle altre persone!
-Just like how a machine needs fine-tuning,\xfffePokémon need maintenance, too.\xf000븁\x0000\xfffeIt's a necessity.\xf000븁\x0000\xfffeFor example, rethinking the moves that a\xfffePokémon knows.
-No clumsy gimmicks...\xfffeNo unnecessary items...\xf000븁\x0000\xfffeThe only thing you can rely on is the\xfffestrength of you and your Pokémon.\xf000븁\x0000\xfffeThis place is wonderful, isn't it?
-Over 100 straight victories...\xf000븁\x0000\xfffeIf this is all due to your strength,\xfffeyou're even a match for the Champion.
-The strength of the Trainers on\xfffethe Super Train is beyond imagination!
-I had a taste of it...\xfffeThe rush of battle...\xf000븁\x0000\xfffeI shouldn't...\xfffeIt's too wild...\xf000븁\x0000\xfffeBut at this rate, I'm going to\xfffeend up on the path of battlers...
-Howdy! I'm a genius Pilot!\xfffeUnova's finest!\xf000븁\x0000\xfffeAnd I'm comin' in first here, too!
-I've seen elite Trainers like me\xfffeall over the place, but...\xf000븁\x0000\xfffeSeems like the battles will be tough\xfffefrom here on.
-Even for an elite Trainer such as myself,\xfffeit's starting to get hard.
+Proprio come una macchina ha bisogno della messa a punto,\xfffecosì i Pokémon hanno anche bisogno di sostentamento.\xf000븁\x0000\xfffeÈ una necessità.\xf000븁\x0000\xfffePer esempio, ripensando le mosse che un\xfffePokémon conosce.
+Non maldestri trucchetti...\xfffeNon oggetti inutili...\xf000븁\x0000\xfffeL'unica cosa su cui puoi fare affidamento è la\xfffeforza tua e del tuo Pokémon.\xf000븁\x0000\xfffeQuesto posto è fantastico, vero?
+Ho visto allenatori d'elite come me\xfffetutti oltre questo posto, ma...\xf000븁\x0000\xfffeSembra che le battaglie saranno difficili\xfffeda qui in poi.
+Anche per un allenatore d'elite come me,\xfffesta iniziando a diventare difficile.
 Hey, come va?\xfffeIo sto ancora andando alla grande!
 I've a-done it--77 straight wins!\xfffeThat number has a lucky sound!
 Abbiamo sconfitto oltre 300 allenatori...
-My my, what a weak-looking Trainer...\xf000븁\x0000\xfffeI think I would just get bored if I\xfffebattled you...\xf000븁\x0000\xfffeI'll give you this, so just get a little\xfffetougher, OK?\xf000븁\x0000
-I'm only interested in strong\xfffeopponents...\xf000븁\x0000\xfffeIf you get tougher, I wouldn't\xfffemind battling you.
-Not many people left on the platform...\xf000븁\x0000\xfffeGuess that shows how hard it is\xfffeto keep winning on the Battle Subway.
-...\xf000븁\x0000\xfffeHuh? What? What do you want?\xf000븁\x0000\xfffeI'm busy planning my tactics for my\xfffenext battle.\xf000븁\x0000\xfffeI don't mean to be rude, but I really\xfffeneed to concentrate. Would you mind\xf000븀\x0000\xfffenot talking to me right now?
-91 straight victories is nothing more\xfffethan a natural result for me.\xf000븁\x0000\xfffeMy glorious record will just keep\xfffegoing up!
-You...\xfffeYou have the same eyes as me.\xf000븁\x0000\xfffeYou love battling so much...\xfffeNo, it's not just that...\xf000븁\x0000\xfffeBattling is your reason for living.\xfffeYou and I are the same type, aren't we?\xf000븁\x0000\xfffeSo...I'll give you this.\xf000븁\x0000
-You're continuing your battle, right?\xf000븁\x0000\xfffeThat's because we are that type of\xfffeperson, aren't we...
-I'm going to leave a rockin' record and\xfffeturn into a big star!
+Perbacco, che allenatore dall'aspetto debole...\xf000븁\x0000\xfffePenso che mi sarei soltanto annoiato se\xfffeti avessi affrontato...\xf000븁\x0000\xfffeTi darò questo, così diventi un pò più\xfffeforte, OK?\xf000븁\x0000
+Sono solo interessato ad avversari\xfffepotenti...\xf000븁\x0000\xfffeSe tu diventassi più forte, non mi dispiacerebbe\xfffeaffrontarti.
+Non molte persone rimaste sulla piattaforma...\xf000븁\x0000\xfffeQuesto mostra quanto è difficile\xfffecontinuare a vincere nella battaglia della metropolitana.
+...\xf000븁\x0000\xfffeHuh? Cosa? Cosa vuoi?\xf000븁\x0000\xfffeSono occupato a pianificare le mie tattiche per la mia\xfffeprossima lotta.\xf000븁\x0000\xfffeNon intendo essere rude, ma ho veramente\xfffebisogno di concentrarmi. Ti dispiacerebbe \xf000븀\x0000\xfffenon parlarmi proprio ora?
+91 vittorie di fila non è nulla di più\xfffedi un risultato naturale per me.\xf000븁\x0000\xfffeIl mio record glorioso continuerà semplicemente\xfffead aumentare!
+Tu...\xfffeTu hai gli stessi occhi miei.\xf000븁\x0000\xfffeTu ami lottare così tanto...\xfffeNo, non è solo quello...\xf000븁\x0000\xfffeLottare è la tua ragione di vita.\xfffeTu ed io siamo dello stesso tipo, no?\xf000븁\x0000\xfffeCosì...Ti darò questo.\xf000븁\x0000
+Continuerai la tua battaglia, giusto?\xf000븁\x0000\xfffeQuesto perchè noi siamo quel tipo di\xfffepersona, giusto...
+Ho intenzione di lasciare un record da urlo e\xfffedi trasformarlo in una grande star!
 Hey, come va?\xfffeIo sto ancora andando alla grande!
 There's more to Pokémon than it seems.\xf000븁\x0000\xfffeThe world of Pokémon battling really gets\xfffedeeper and deeper.
-I found this when I was cleaning.\xfffeYou can have it if you'd like.\xf000븁\x0000
-Oh, no need to thank me!\xfffeAfter all, I just found it in the trash.\xf000븁\x0000\xfffeI don't understand it. Recently, many\xfffefolks have just been throwing away\xf000븀\x0000\xfffeperfectly good things.
-I may be a Janitor, but I have a lot\xfffeof confidence in my abilities!
-All right! Bring out your Poké Balls!\xfffeNow is the time for a battle!
-You like battles, too!
-I can't believe a Veteran like me\xfffewould get into trouble like that.\xf000븁\x0000\xfffeWhere in the world are the Trainers\xfffehere training?
-How are you doing, Trainer?\xfffeAre you starting to get tired yet?
+Ho trovato questo quando pulivo.\xfffeLo puoi avere se lo vuoi.\xf000븁\x0000
+Oh, non c'è bisogno di ringraziarmi!\xfffeDopotutto, lo ho appena trovato nella spazzatura.\xf000븁\x0000\xfffeNon lo capisco. Recentemente, molta\xfffegente butta semplicemente via\xf000븀\x0000\xfffecose perfettamente buone.
+Sarò anche un bidello, ma ho molta confidenza \xfffenelle mie abilità!
+Bene! Uscite le vostre Poké Ball!\xfffeOra è tempo di lottare!
+Anche a te piacciono le lotte!
+Non posso credere che un veterano come me\xfffesi potrebbe mettere nei guiai in questo modo.\xf000븁\x0000\xfffeDove sono gli allenatori di tutto il mondo che si \xfffestanno allenando qui?
+Come va, allenatore?\xfffeInizi ad essere stanco ormai?
 Mumble, mumble, mumble...\xf000븁\x0000\xfffeIn order to bring good fortune, I always\xfffethink about my family before a battle.
 I've been watching you battle.\xf000븁\x0000\xfffeNice technique and judgment... Not\xfffesurprising, after a win streak like yours.
 Not many people around.\xf000븁\x0000\xfffeBut each person who is still here has\xfffeshown true strength.
