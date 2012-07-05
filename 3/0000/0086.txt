@@ -1,16 +1,16 @@
 \xf000Ā\x0001\x0000 received \xf000ȁ\x0001\x0001 BP!
 Salvataggio in corso...\xfffeNon rimuovere l'alimentazione.
 Salvataggio...\xfffeon rimuovere l'alimentazione.
-Congratulazioni! You've successfully\xfffereached a seven-win streak!\xf000븁\x0000\xfffeSince you've won seven in a row,\xfffeI present you with these Battle Points!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffeYou had a seven-win streak and\xfffebrilliantly beat the Subway Boss,\xf000븀\x0000\xfffeso I present you with these\xf000븀\x0000\xfffeBattle Points.\xf000븁\x0000
-And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Single Train!\xf000븁\x0000
-And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Double Train!\xf000븁\x0000
-And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Multi Train!\xf000븁\x0000
-Also, to commemorate this, I give you\xfffethis trophy.\xf000븁\x0000\xfffePlease display it in your home!
-Please enjoy your time here.\xf000븁\x0000\xfffeIf you would like to continue your\xfffechallenge or go back to Nimbasa City,\xf000븀\x0000\xfffeplease talk to me.
-This is the end of the Single Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-This is the end of the Double Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-This is the end of the Multi Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
+Congratulazioni! Hai raggiunto con successo\xfffeuna serie di sette vittorie!\xf000븁\x0000\xfffeDato che hai fatto sette vittorie di fila,\xfffeIo ti presento con questi Battle Points!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffeHai effettuato una serie di sette vittorie e\xfffe hai sconfitto brillantemente il Boss della metropolitana,\xf000븀\x0000\xfffecosì ti presento con questi\xf000븀\x0000\xfffeBattle Points.\xf000븁\x0000
+E, \xf000Ā\x0001\x0000, ora hai guadagnato\xfffeil diritto di sfidare\xf000븀\x0000\xfffeil Super Single Train!\xf000븁\x0000
+E, \xf000Ā\x0001\x0000, ora hai guadagnato\xfffeil diritto di sfidare\xf000븀\x0000\xfffeil Super Double Train!\xf000븁\x0000
+E, \xf000Ā\x0001\x0000, ora hai guadagnato\xfffeil diritto di sfidare\xf000븀\x0000\xfffeil Super Multi Train!\xf000븁\x0000
+Inoltre, per ricordare questo, ti do\xfffequesto trofeo.\xf000븁\x0000\xfffePer favore mettilo in esposizione a casa tua!
+Per favore divertiti mentre sei qui.\xf000븁\x0000\xfffeSe vuoi continuare la tua\xfffesfida o ritornare a Nimbasa City,\xf000븀\x0000\xfffeparlami.
+Questa è la fine del Single Train line.\xf000븁\x0000\xfffeQuando vuoi tornare a Nimbasa City,\xfffeper favore parla di nuovo con me.\xf000븁\x0000\xfffeDivertiti mentre sei qui.
+Questa è la fine del Double Train line.\xf000븁\x0000\xfffeQuando vuoi tornare a Nimbasa City,\xfffeper favore parla di nuovo con me.\xf000븁\x0000\xfffeDivertiti mentre sei qui.
+Questa è la fine del Multi Train line.\xf000븁\x0000\xfffeQuando vuoi tornare a Nimbasa City,\xfffeper favore parla di nuovo con me.\xf000븁\x0000\xfffeDivertiti mentre sei qui.
 Vuoi tornare a Nimbasa City?
 Bene allora, torneremo a Nimbasa City.\xf000븁\x0000
 Cosa vuoi fare?
@@ -21,18 +21,18 @@ Aspettando la risposta dei tuoi amici...
 E' stato scelto "Ritorno a Nimbasa City", quindi\xfffela tua competizione\xf000븀\x0000\xfffefinirà per adesso.
 \xf000Ā\x0001\x0000, sei stato promosso\xfffeal Rango \xf000ȁ\x0001\x0001!\xf000븁\x0000
 Vuoi inviare questi risultati\xfffetramite Nintendo WFC?
-There's still a lot more to go, but let's\xfffedo our best!
-There's still a lot more to go, but let's\xfffedo our best!
-We finally made it this far!\xf000븁\x0000\xfffeOur opponents will get tougher, but let's\xfffedo our best and not get discouraged!
-We finally made it this far!\xf000븁\x0000\xfffeOur opponents will get tougher, but let's\xfffedo our best and not get discouraged!
-We finally made it here!\xf000븁\x0000\xfffe...Could we be the best partners ever?!
-We finally made it here!\xf000븁\x0000\xfffe...Could we be the best partners ever?!
-This is the end of the Wi-Fi Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
+C'è ancora molto di più da viaggiare, ma \xfffefacciamo del nostro meglio!
+C'è ancora molto di più da viaggiare, ma \xfffefacciamo del nostro meglio!
+Finalmente ce l'abbiamo fino a questo punto!\xf000븁\x0000\xfffeI nostri avversari diventeranno più forti, ma\xfffefacciamo del nostro meglio e non scoraggiamoci!
+Finalmente ce l'abbiamo fino a questo punto!\xf000븁\x0000\xfffeI nostri avversari diventeranno più forti, ma\xfffefacciamo del nostro meglio e non scoraggiamoci!
+Finalmente ce l'abbiamo fatta qui!\xf000븁\x0000\xfffe...Potremmo essere i migliori compagni di sempre?!
+Finalmente ce l'abbiamo fatta qui!\xf000븁\x0000\xfffe...Potremmo essere i migliori compagni di sempre?!
+Questa è la fine della Wi-Fi Train line.\xf000븁\x0000\xfffeQuando vuoi tornare a Nimbasa City,\xfffeper favore parlami di nuovo.\xf000븁\x0000\xfffeDivertiti mentre sei qui.
 La contesa è stata interrotta.
 La selezione è stata cancellata.
 Le battaglie continue mi rendono nervoso.\xfffeMi prendo un pò di riposo qui.
-I'm going to save up Battle Points and\xfffeget some items for my Pokémon to hold.
-For each seven-win streak, the Trainers\xfffeand Pokémon who challenge you become\xf000븀\x0000\xfffeprogressively tougher.
+Ho intenzione di risparmiare Battle Points e\xfffe di prendere alcune oggetti da fare tenere ai miei Pokémon.
+Per ogni serie di sette vittorie, gli allenatori\xfffee i Pokémon che ti sfidano diventano\xf000븀\x0000\xfffeprogressivamente più forti.
 I've decided to use only cute Pokémon!\xf000븁\x0000\xfffeDo you have any unique thing you're\xfffeparticular about?
 OK! Sono pronto!\xfffeTutti a bordo per un viaggio di battaglie!
 Phew...I'm worn out.\xf000븁\x0000\xfffeThese Trainers are tough. I wonder\xfffehow far I'll get with my skills.
